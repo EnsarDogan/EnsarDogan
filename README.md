@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EnsarDogan
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning React
 - 📫 How to reach me: doganermansur@icloud.com
 
 <!---
