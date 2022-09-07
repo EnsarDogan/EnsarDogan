@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @EnsarDogan
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning React
+- 👀 I am working at FUGA as Frontend Developer Intern
 - 📫 How to reach me: doganermansur@icloud.com
 
 <!---
