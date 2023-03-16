@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EnsarDogan
-- 👀 I am working at FUGA as Frontend Developer Intern
+- 👀 I am working at FUGA as Frontend Developer
 - 📫 How to reach me: doganermansur@icloud.com
 
 <!---
